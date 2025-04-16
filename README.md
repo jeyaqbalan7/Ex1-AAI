@@ -1,5 +1,5 @@
-<H3> Name : RICHARDSON A </H3>
-<H3>Register No: 212222233005 </H3>
+<H3> Name : Jeyabalan T </H3>
+<H3>Register No: 212222240040 </H3>
 <H3> Experiment 1 </H3>
 <H3>DATE: 16/04/2025 </H3>
 
@@ -99,8 +99,6 @@ ax = plt.gca()
 ax.margins(0.10)
 plt.axis("off")
 plt.show()
-print("NAME  : RICHARDSON A")
-print("REG NO: 212222233005")
 print(probs(df, child='Humidity9amCat'))
 print(probs(df, child='Humidity3pmCat', parent1='Humidity9amCat'))
 print(probs(df, child='WindGustSpeedCat'))
