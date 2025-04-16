@@ -115,7 +115,8 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 
 ![image](https://github.com/user-attachments/assets/894c7cd8-ccae-4c74-9de6-b712ff345b6c)
 
-<img width="1178" alt="Screenshot 2025-04-16 at 10 36 20 AM" src="https://github.com/user-attachments/assets/53dd95f9-b478-4a76-aed7-e8f6c6e1a5f2" />
+![image](https://github.com/user-attachments/assets/af77c6d1-9c1b-4349-8287-8dc2304ad5bb)
+
 
 
 ## Result:
